@@ -1,0 +1,429 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215550063692@s.whatsapp.net',
+    fromMe: false,
+    id: 'D07A8415ED987779CD34817BFB64DE1C',
+    participant: undefined
+  },
+  messageTimestamp: 1741099399,
+  pushName: 'Ricardo Amezquita',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5215550063692'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0f64f9cb-911d-4fde-bb73-5390f7531ff8',
+  keyword: 'key_54349caa-858d-49ab-8e2a-2acc49d4a201',
+  answer: '🙌 Hola, bienvenid@',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c83aa8b572adb7fcd1f346b84ca7d28c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_df4ab389-9241-439c-9a6c-a226b249a221',
+  keyword: 'ans_0f64f9cb-911d-4fde-bb73-5390f7531ff8',
+  answer: '¿Como puedo ayudarte?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8eff7ccce8df6b462e1551ac85bd888e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215550063692@s.whatsapp.net',
+    fromMe: false,
+    id: '5002CA6E95F3B29313261C6CB27C25CB',
+    participant: undefined
+  },
+  messageTimestamp: 1741099421,
+  pushName: 'Ricardo Amezquita',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que servicios tienes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Que servicios tienes',
+  from: '5215550063692'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3cb1c852-99ac-4386-881d-83f91193d97c',
+  keyword: 'key_3a72afbe-7873-4e75-b211-deefbf3a9d1d',
+  answer: 'Exelente tenemos los siguientes servicios',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '778a798b1e897c68d13f0f1ff56258e5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ea3782e7-8461-4ad2-b806-99d53fcf11b3',
+  keyword: 'ans_3cb1c852-99ac-4386-881d-83f91193d97c',
+  answer: 'Team Building',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3f186b5cfde4ac519f8bbe4cea86f5bb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8be2c189-f107-4b54-b967-71f68023d4cf',
+  keyword: 'ans_ea3782e7-8461-4ad2-b806-99d53fcf11b3',
+  answer: 'Meeting Planners',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '822974bd16f09a426433a9f533717d94'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_da6aee7a-99a3-4c64-9b27-41c1adbfaa71',
+  keyword: 'ans_8be2c189-f107-4b54-b967-71f68023d4cf',
+  answer: 'Campamentos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6b7251d9d001592fa2f4d40593f80766'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_33c63f57-e9f9-4eac-b277-e34ca36936b5',
+  keyword: 'ans_da6aee7a-99a3-4c64-9b27-41c1adbfaa71',
+  answer: 'Cual te interesa, para darte mas informes',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0fce7a2c0c3ff5ea70186f37e77ef2be'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215550063692@s.whatsapp.net',
+    fromMe: false,
+    id: 'D4B1ABC10A7FC31613B9002192BF2D47',
+    participant: undefined
+  },
+  messageTimestamp: 1741099442,
+  pushName: 'Ricardo Amezquita',
+  broadcast: false,
+  message: Message {
+    conversation: 'Campamentos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Campamentos',
+  from: '5215550063692'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_adcab6ec-bf0e-4032-912b-5352ad763bdc',
+  keyword: 'key_d51677f7-d834-4971-acd5-c9a2ce027edb',
+  answer: 'Maravilloso tenemos los siguientes servicios para Campamentos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '03b0977786c44984f61722b70e272368'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6da12ecb-0be1-4543-80d7-9625258da148',
+  keyword: 'ans_adcab6ec-bf0e-4032-912b-5352ad763bdc',
+  answer: 'Campamentos Empresariales',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4cc7ac106364b10afdae4b720d5db998'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b22057ad-b0a8-45e6-bb7c-965acb1c4b2a',
+  keyword: 'ans_6da12ecb-0be1-4543-80d7-9625258da148',
+  answer: 'Campamentos para Adultos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ed26a155242f19082cc1255f577c2d9c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8ef4b650-58c0-45ef-8342-588a299c3d28',
+  keyword: 'ans_b22057ad-b0a8-45e6-bb7c-965acb1c4b2a',
+  answer: 'Campamentos para Familias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '481028b08a01a9473ef2302feb321f9e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_392855a0-7e67-44f8-9f42-9338e45647ca',
+  keyword: 'ans_8ef4b650-58c0-45ef-8342-588a299c3d28',
+  answer: 'Campamentos para Menores',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab90bf8197461c7720addb9730ad1280'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215550063692@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAFC254910D7A204007913DBD5DDE3D7',
+    participant: undefined
+  },
+  messageTimestamp: 1741099465,
+  pushName: 'Ricardo Amezquita',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y de team building',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Y de team building',
+  from: '5215550063692'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4410b617-ce1d-44c2-b13e-6701780d0cd7',
+  keyword: 'key_6391967f-2044-4dbd-ac72-0e94bb97eed8',
+  answer: 'Muy bien tenemos los siguientes servicios de team building',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b808d67b0c22bd459617292bb09af304'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_74baf21a-decd-48bf-8940-7b54013e4a27',
+  keyword: 'ans_4410b617-ce1d-44c2-b13e-6701780d0cd7',
+  answer: 'Team Building Presencial',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e7d4145ef113f1e18de64ccb812fbfa6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4111255e-a005-420d-9951-5b606df5eaa0',
+  keyword: 'ans_74baf21a-decd-48bf-8940-7b54013e4a27',
+  answer: 'Team Building Virtual',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '97173d9a46cfaacf181287232f3a05fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94931c50-a917-41fe-b7fa-763e7029419d',
+  keyword: 'ans_4111255e-a005-420d-9951-5b606df5eaa0',
+  answer: 'Y Team Building Hibrido o Mixto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bf3fd30db2a42b1d3e6b2b30a6aac050'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_51252011-7138-44ae-90fd-76af78447248',
+  keyword: 'ans_94931c50-a917-41fe-b7fa-763e7029419d',
+  answer: 'Cual te interesa, para darte mas detalles',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '62e5f52f646d2ec8f39d8f1acc3646ec'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215550063692@s.whatsapp.net',
+    fromMe: false,
+    id: '53B940BBD99B912A87332896E049D8CA',
+    participant: undefined
+  },
+  messageTimestamp: 1741099640,
+  pushName: 'Ricardo Amezquita',
+  broadcast: false,
+  message: Message {
+    conversation: 'Presencial',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Presencial',
+  from: '5215550063692'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_48219050-027b-42ff-82a8-fc304389f8aa',
+  keyword: 'key_a15b1d79-7e38-438f-aae6-ac03e36b1352',
+  answer: 'No entiendo tu pregusta, me puedes preguntar otra cosa ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 3500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd8c6ed778632fb7f73721fcba5f805a6'
+}
